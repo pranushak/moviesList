@@ -1,0 +1,25 @@
+h2{
+    padding: 10px;
+  text-align: left;
+  background: #c673ca;
+  color: white;
+  font-size: 50px;
+  position:absolute;
+  top:0;
+  left: 0;
+}
+p{
+  font-size: 80x;
+}
+.button{
+  background-color: #04AA6D;
+  font-size: 1em;
+}
+label{
+  font-size: 30px;
+}
+.divStyle{
+  display: "flex";
+  direction: "row";
+  
+}
